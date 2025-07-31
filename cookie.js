@@ -64,7 +64,7 @@ const config = {
     allowedDomains: [],
     
     // Privacy policy URL (configurable)
-    privacyPolicyUrl: 'https://yourdomain.com/privacy-policy', // Add your full privacy policy URL here
+    privacyPolicyUrl: 'https://primarmi.it/it-it/cookie', // Add your full privacy policy URL here
 
 
    
